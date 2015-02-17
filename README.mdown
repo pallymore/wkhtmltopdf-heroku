@@ -1,3 +1,13 @@
+# Deprecated. Please use wkhtmltopdf-heroku-edge gem
+
+```ruby
+gem 'wkhtmltopdf-heroku-edge', '~> 0.12.2.1'
+```
+
+Github: [pallymore/wkhtmltopdf-heroku-edge](https://github.com/pallymore/wkhtmltopdf-heroku-edge)
+
+---
+
 # wkhtmltopdf-heroku
 
 Provides a [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/) binary for [Heroku](http://www.heroku.com/).
